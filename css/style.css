@@ -143,6 +143,11 @@ body {
     text-align: center;
   }
 
+  .player-container {
+    float: none; 
+    margin: 0 auto; 
+    text-align: center; 
+  }
 
   ul {
     list-style: square;
@@ -180,5 +185,3 @@ body {
   
   /* Importing Font */
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
-  
