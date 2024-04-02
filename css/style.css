@@ -2,7 +2,7 @@
 
 /* General Styles */
 body {
-    font-family: 'Arial', sans-serif; /* Browser native font */
+    font-family: 'Roboto' ,'Arial'; /* Browser native font */
     line-height: 1.6;
     margin: 0;
     padding: 0;
