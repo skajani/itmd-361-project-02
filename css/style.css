@@ -151,7 +151,11 @@ body {
 
   .player-container h2 {
     text-decoration: underline;
-}
+  }
+
+  .center-heading {
+    text-align: center;
+  }
 
   ul {
     list-style: square;
