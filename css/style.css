@@ -169,7 +169,7 @@ body {
   }
   
   /* Fluid Layout */
-  @media (max-width: 768px) {
+  @media (min-width: 769px) {
     main {
       max-width: 100%;
       padding: 0.625rem;
@@ -177,7 +177,7 @@ body {
   }
   
   /* Fixed Width Layout */
-  @media (min-width: 769px) {
+  @media (min-width: 1200px) {
     main {
       max-width: 50rem;
     }
