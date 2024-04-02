@@ -149,6 +149,10 @@ body {
     text-align: center; 
   }
 
+  .player-container h2 {
+    text-decoration: underline;
+}
+
   ul {
     list-style: square;
     color: #555;
