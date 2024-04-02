@@ -2,7 +2,7 @@
 
 /* General Styles */
 body {
-    font-family: 'Roboto' ,'Arial'; /* Browser native font */
+    font-family: 'Roboto' ,'Arial';
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -151,8 +151,4 @@ body {
   /* Importing Font */
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
   
-  /* Applying Imported Font */
-  body {
-    font-family: 'Roboto', sans-serif;
-  }
   
