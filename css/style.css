@@ -113,6 +113,12 @@ body {
   section {
     margin-bottom: 20px;
   }
+
+  #Work,
+  #WatchSports {
+  float: middle; 
+  width: 70%;
+  }
   
   ul {
     list-style: square;
@@ -150,5 +156,5 @@ body {
   
   /* Importing Font */
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-  
+
   
