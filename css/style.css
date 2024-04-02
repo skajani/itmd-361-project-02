@@ -116,12 +116,12 @@ body {
 
   #Work,
   #WatchSports {
-  float: middle; 
+  float: center; 
   width: 70%;
   }
 
   .contact-info {
-    float: middle;
+    float: center;
     width: 100%; 
     text-align: center;
   }
